@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+}
+
+.buscar{
+  font-family: 'B612 Mono', monospace;
+  color: white;
+  background-color: #57CAF9;
+}
