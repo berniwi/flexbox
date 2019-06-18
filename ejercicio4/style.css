@@ -1,0 +1,18 @@
+body{
+  font-family: 'B612 Mono', monospace;
+  color: white;
+}
+
+.container{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.hashtag{
+  background-color: #FD73A0;
+  flex-basis: 10%;
+  padding: 10px 20px;
+  margin: 10px 20px;
+}
