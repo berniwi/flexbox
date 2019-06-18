@@ -1,0 +1,36 @@
+.container{
+  display: flex;
+  height: 20vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  height: 13vh;
+  width: 70%;
+  font-family: 'B612 Mono', monospace;
+  padding: 0 6vw;
+}
+
+.img{
+  width: 70px;
+  height: 70px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+li{
+  display: inline;
+  padding-left: 3vw;
+}
+
+ul{
+  display: inline-block;
+}
