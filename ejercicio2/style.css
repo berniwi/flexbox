@@ -1,9 +1,23 @@
 .container{
   display: flex;
+  height: 20vh;
+  justify-content: center;
+  align-items: center;
 }
 
 .buscar{
   font-family: 'B612 Mono', monospace;
   color: white;
+  font-size: 20px;
+  font-weight: 700;
+  height: 70px;
+  width: 160px;
   background-color: #57CAF9;
+}
+
+.buscador{
+  box-sizing: border-box;
+  width: 50%;
+  height: 70px;
+  padding-left: 20%;
 }
