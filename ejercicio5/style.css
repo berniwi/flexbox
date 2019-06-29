@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+}
+
+.ositopolar{
+  background-image: url("img/ositopolar.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.pajaritos{
+  background-image: url("img/pajaritos.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.bulldog{
+  background-image: url("img/bulldog.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.flamenco{
+  background-image: url("img/flamenco.jpg");
+  background-size: cover;
+  width: 800px;
+  height: 300px;
+}
+
+.love{
+  background-image: url("img/love.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 500px;
+}
+
+.ardilla{
+  background-image: url("img/ardilla.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img{
+  border: 10px solid white;
+}
